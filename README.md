@@ -20,7 +20,7 @@
 sales-forecasting-clothing-sector/
 │
 ├── 📁 data/ # Raw and cleaned data
-│ ├── raw_sales_data.csv
+│ ├── raw_sales_data.csv    
 │ └── cleaned_sales_data.csv
 │
 ├── 📁 notebooks/ # Jupyter Notebooks for development
