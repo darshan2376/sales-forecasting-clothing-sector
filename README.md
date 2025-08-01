@@ -4,7 +4,7 @@
 
 ---   
     
-## 🚀 Project Highlights    
+## 🚀 Project Highlights       
 
 - 📅 **Time-Series Sales Forecasting**
 - 🤖 **ARIMA** for traditional time series forecasting
