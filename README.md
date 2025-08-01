@@ -30,7 +30,7 @@ sales-forecasting-clothing-sector/
 │ ├── 04_model_building_ARIMA.ipynb
 │ ├── 05_model_building_LSTM.ipynb
 │ └── 06_dashboard_design.ipynb
-│
+│     
 ├── 📁 models/ # Trained models and scalers
 │ └── best_model.pkl
 │
