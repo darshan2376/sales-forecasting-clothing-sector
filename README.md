@@ -1,4 +1,4 @@
-# 👗 Sales Forecasting for Clothing Sector using ARIMA & LSTM    
+# 👗 Sales Forecasting for Clothing Sector using ARIMA & LSTM     
 
 📈 A complete end-to-end Data Science project that forecasts sales in the clothing industry using traditional statistical models (ARIMA) and advanced deep learning models (LSTM), deployed via an interactive Flask dashboard.
 
